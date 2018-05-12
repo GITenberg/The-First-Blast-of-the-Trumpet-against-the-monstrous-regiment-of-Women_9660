@@ -1,5 +1,8 @@
 _repo: The-First-Blast-of-the-Trumpet-against-the-monstrous-regiment-of-Women_9660
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Knox, John
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3122
     wikipedia: http://en.wikipedia.org/wiki/Edward_Arber
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9660#The-First-Blast-of-the-Trumpet-against-the-monstrous-regiment-of-Women
 gutenberg_issued: '2006-01-01'
 gutenberg_type: Text
 identifiers:
